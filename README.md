@@ -1,1 +1,7 @@
-# Bicol
+<!DOCTYPE html>
+<html>
+<frameset noresize cols="245px,*" scrolling="on">
+	<frame frameborder="off" src="SIDEBAR.html"/>
+	<frame frameborder="off" name="content" src="HOME.html"/>
+</frameset>
+</html>
